@@ -15,7 +15,12 @@
 <img width="1440" alt="Screenshot 2025-06-22 at 21 31 28" src="https://github.com/user-attachments/assets/b42d6505-9f77-4c88-a1c3-fbff83c476e4" />
 
 ## WEEK_1 PROXY PATTERN
+<img width="1440" alt="Screenshot 2025-06-22 at 21 32 49" src="https://github.com/user-attachments/assets/ca0034f9-332b-4e85-81c6-ff38f923b9ba" />
+
 ## WEEK_1 INVENTORY MANAGEMENT
+<img width="1440" alt="Screenshot 2025-06-22 at 21 33 40" src="https://github.com/user-attachments/assets/4c9f31bd-9827-4d75-b1a5-6eab405a444b" />
+
 ## WEEK_1 E-COMMERS SEARCH
+
 ## WEEK_1 SORTING CUSTOMERS ORDERS
 ## WEEK_1 LIBRARY MANGEMENT
