@@ -29,3 +29,6 @@
 ## WEEK_1 LIBRARY MANGEMENT
 <img width="1440" alt="Screenshot 2025-06-22 at 21 36 08" src="https://github.com/user-attachments/assets/2add4d09-3714-4daf-9e73-646ca8efc3f1" />
 
+## WEEK_1 FINANCIAL FORECASTING
+<img width="1440" alt="Screenshot 2025-06-22 at 21 45 23" src="https://github.com/user-attachments/assets/73236cfd-23af-4150-8727-6bec22ab4acd" />
+
