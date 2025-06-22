@@ -1,6 +1,7 @@
 # DeepSkill_Nurture_4.0
 ## WEEK_1 SINGLETON PATTERN
-<img width="1440" alt="Screenshot 2025-06-17 at 18 57 50" src="https://github.com/user-attachments/assets/00fc6e17-6885-4138-9c74-d202495b218b" />
+<img width="1440" alt="Screenshot 2025-06-22 at 21 28 57" src="https://github.com/user-attachments/assets/4ec0ef10-d59a-4118-b886-8d10fcb31423" />
+
 ## WEEK_1 FACTORY PATTERN
 ## WEEK_1 BUILDER PATTERN
 ## WEEK_1 ADAPTER PATTERN
