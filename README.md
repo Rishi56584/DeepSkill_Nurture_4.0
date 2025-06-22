@@ -21,6 +21,11 @@
 <img width="1440" alt="Screenshot 2025-06-22 at 21 33 40" src="https://github.com/user-attachments/assets/4c9f31bd-9827-4d75-b1a5-6eab405a444b" />
 
 ## WEEK_1 E-COMMERS SEARCH
+<img width="1440" alt="Screenshot 2025-06-22 at 21 35 19" src="https://github.com/user-attachments/assets/ebc6317b-3c0b-4301-9fc4-28bac81dcbdb" />
 
 ## WEEK_1 SORTING CUSTOMERS ORDERS
+<img width="1440" alt="Screenshot 2025-06-22 at 21 35 42" src="https://github.com/user-attachments/assets/37e70755-7ed6-489f-8a05-870a0b7031b9" />
+
 ## WEEK_1 LIBRARY MANGEMENT
+<img width="1440" alt="Screenshot 2025-06-22 at 21 36 08" src="https://github.com/user-attachments/assets/2add4d09-3714-4daf-9e73-646ca8efc3f1" />
+
