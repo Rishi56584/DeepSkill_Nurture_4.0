@@ -1,0 +1,4 @@
+21:05:35.304 [main] DEBUG com.example.AppenderExample - Debug message: App is starting
+21:05:35.305 [main] INFO  com.example.AppenderExample - Info message: Running AppenderExample
+21:05:35.305 [main] WARN  com.example.AppenderExample - Warning message: Low disk space
+21:05:35.305 [main] ERROR com.example.AppenderExample - Error message: Null pointer exception
